@@ -1,4 +1,3 @@
-FIRSTManuals
-============
+#FIRST Team 1073 Team Handbooks
 
-A collection of FIRST Robotics manuals are team made for past games; this is a good resource for new teams!
+A collection of handbooks and rules we've defined as a FIRST Team over the years.
